@@ -14,6 +14,6 @@ A Banking Operations Professional fascinated by Automation & Digitial Tranformat
 - 👯 I’ll volunteer to Dockerize an application on any GitHub repository.
 - 💬 Ask me about anything
 - 😄 Pronouns: Build it and they will come
-- ⚡ Fun fact: I'm a tachi fan
+- ⚡ Fun fact: I'm a farmer from Northern Thailand
 
 
