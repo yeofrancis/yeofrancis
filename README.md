@@ -18,9 +18,7 @@ A Banking Operations Professional fascinated by Automation & Digitial Tranformat
 
 # Current Tools
 
-![image](https://user-images.githubusercontent.com/82499575/143894793-8f76556f-cb23-4d69-84e1-f56e973c0e3c.png)
-
-![image](https://user-images.githubusercontent.com/82499575/143895035-18673b38-db88-4280-b025-4a8092829eaf.png)
+![image](https://user-images.githubusercontent.com/82499575/143894793-8f76556f-cb23-4d69-84e1-f56e973c0e3c.png), ![image](https://user-images.githubusercontent.com/82499575/143895035-18673b38-db88-4280-b025-4a8092829eaf.png)
 
 
 
