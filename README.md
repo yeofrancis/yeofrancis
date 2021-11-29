@@ -16,7 +16,9 @@ A Banking Operations Professional fascinated by Automation & Digitial Tranformat
 - 😄 Pronouns: Build it and they will come
 - ⚡ Fun fact: I'm a farmer from Northern Thailand
 
-# DevOps Tools 
+# Tools that I am Proficient
+
+![image](https://user-images.githubusercontent.com/82499575/143894793-8f76556f-cb23-4d69-84e1-f56e973c0e3c.png)
 
 
 
