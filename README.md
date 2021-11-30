@@ -7,7 +7,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 
 # About Me
-A Banking Operations Professional fascinated by Automation & Digitial Tranformation deep dving into the area of IT Operations and its relationship with Software Developers on enhancing and automating their processes, adding value to SDLC leading to a Happy Me 😘
+A Banking Operations Professional fascinated by Automation & Digitial Tranformation deep dving into the area of IT Operations and its relationship with Software Developers on enhancing and automating their processes, adding value to SDLC 😘
 
 
 - 🔭 I’m currently working on Dockerizing Continious Integration / Continious Delivery
