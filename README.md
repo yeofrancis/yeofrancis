@@ -5,7 +5,7 @@ Find me on  <a href=”https://www.linkedin.com/in/francis-yeo-90543645/"> ![alt
 
 
 # About Me
-A Banking Operations Professional fascinated by Automation & Digitial Tranformation deep dving into the area of IT Operations and its relationship with Software Developers on enhancing and adding-value to SLDC, leading to Happy customers experience. 
+A Banking Operations Professional fascinated by Automation & Digitial Tranformation deep dving into the area of IT Operations and its relationship with Software Developers on enhancing and adding-value to SLDC, leading to a Happy Me 😘
 
 
 - 🔭 I’m currently working on Dockerizing Continious Integration / Continious Delivery
