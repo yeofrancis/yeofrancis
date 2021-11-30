@@ -29,6 +29,9 @@ A Banking Operations Professional fascinated by Automation & Digitial Tranformat
 # Cloud
 ![image](https://user-images.githubusercontent.com/82499575/143897552-9f07d927-dfe4-41b6-b719-b1c36695befa.png)
 
+# My Stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=yeofrancis)
 
 
 
