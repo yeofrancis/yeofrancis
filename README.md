@@ -1,7 +1,7 @@
 # Hey, Thanks for dropping by
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better!
-contact me  on LinkedIn or email me.
+Find me on  <a href=”https://www.linkedin.com/in/francis-yeo-90543645/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
 
 # About Me
