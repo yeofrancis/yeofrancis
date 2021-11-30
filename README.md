@@ -1,4 +1,6 @@
-# Hey, Thanks for dropping by
+# Hey,![HiWaveGIF](https://user-images.githubusercontent.com/82499575/143995760-2d352688-1a96-46f2-937a-57a3acf97c06.gif) Thanks for dropping by 
+
+
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better!
 
