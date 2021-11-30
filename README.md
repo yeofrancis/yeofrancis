@@ -9,6 +9,9 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 # About Me
 A Banking Operations Professional fascinated by Automation & Digitial Tranformation deep dving into the area of IT Operations and its relationship with Software Developers on enhancing and automating their processes, adding value to SDLC 😘
 
+Connect me on [Linkedin](https://www.linkedin.com/in/francis-yeo-90543645/)\
+Reach me at 📧 [Email](https://francis.yeo.wk@gmail.com/)
+
 
 - 🔭 I’m currently working on Dockerizing Continious Integration / Continious Delivery
 - 🌱 I’m currently learning everything on DevOps with Docker and Kubernetes 🤣
