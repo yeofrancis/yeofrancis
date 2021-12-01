@@ -1,6 +1,5 @@
-# Hey,![HiWaveGIF](https://user-images.githubusercontent.com/82499575/143995760-2d352688-1a96-46f2-937a-57a3acf97c06.gif) Thanks for dropping by 
-
-
+<h1 align="center">Hi 👋, I am Francis. Thanks for dropping by</h1>
+<h3 align="center">A passionate DevOps enthusiastic</h3>
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better!
 
@@ -12,6 +11,7 @@ A Banking Operations Professional fascinated by Automation & Digitial Tranformat
 Connect me on [Linkedin](https://www.linkedin.com/in/francis-yeo-90543645/)\
 Reach me at 📧 [Email](https://francis.yeo.wk@gmail.com/)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeofrancis&label=Profile%20views&color=0e75b6&style=flat" alt="yeofrancis" /> </p>
 
 - 🔭 I’m currently working on Dockerizing Continious Integration / Continious Delivery
 - 🌱 I’m currently learning everything on DevOps with Docker and Kubernetes 🤣
