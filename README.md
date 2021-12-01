@@ -5,8 +5,8 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 
 
-# About Me
-A Banking Operations Professional fascinated by Automation & Digitial Tranformation deep dving into the area of IT Operations and its relationship with Software Developers on enhancing and automating their processes, adding value to SDLC 😘
+<h1 align="left">About Me</h1>
+A Banking Operations Professional passionate and fascinate by Automation & Digitial Tranformation deep dving into the area of IT Operations and its relationship with Software Developers on enhancing and automating their processes, adding value to SDLC 😘
 
 Connect me on [Linkedin](https://www.linkedin.com/in/francis-yeo-90543645/)\
 Reach me at 📧 [Email](https://francis.yeo.wk@gmail.com/)
@@ -22,32 +22,30 @@ Reach me at 📧 [Email](https://francis.yeo.wk@gmail.com/)
 - 😄 Pronouns: Build it and they will come
 - ⚡ Fun fact: I do farming while in Northern Thailand
 
-# Language and Tools
 
-
-![image](https://user-images.githubusercontent.com/82499575/143894793-8f76556f-cb23-4d69-84e1-f56e973c0e3c.png)
+<h1 align="left">Language and Tools</h1>
+</a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="56" height="57"/> 
 <code><img height="56" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-![image](https://user-images.githubusercontent.com/82499575/144170859-7d1151ea-2dbf-4ebc-a9dc-f22729c7cb52.png)
+</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="56" height="56"/> 
 <img align="left" alt="Visual Studio Code" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GitHub" width="56px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<code><img height="56" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-![image](https://user-images.githubusercontent.com/82499575/144170806-b613615c-2668-4d3a-95e9-dd91f77476c7.png)
-<code><img height="56" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
-![image](https://user-images.githubusercontent.com/82499575/144171157-b7444377-4be7-4834-a996-5786acbe5a2e.png)
+<code><img height="56" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="56" height="56"/> </a> 
+<code><img height="56" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png">
+</a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="56" height="56"/> </a>
 
-<code><img height="49" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+.
 
-
-
-# Cloud
-![image](https://user-images.githubusercontent.com/82499575/143897552-9f07d927-dfe4-41b6-b719-b1c36695befa.png) 
-![image](https://user-images.githubusercontent.com/82499575/144170687-e1dd3ce4-a186-4d78-b794-f4d97dad5153.png)
+<code><img height="49" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 
 
 
-# My Stats
+<h1 align="left">Cloud Computing</h1>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="69" height="69"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="69" height="69"/> 
+  
+<h1 align="left">My Stats</h1>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yeofrancis)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeofrancis&show_icons=true&locale=en" alt="yeofrancis" /></p>
+
 
 
 
