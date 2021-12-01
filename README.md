@@ -7,6 +7,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 <h1 align="left">About Me</h1>
 A Banking Operations Professional passionate and fascinate by Automation & Digitial Tranformation deep dving into the area of IT Operations and its relationship with Software Developers on enhancing and automating their processes, adding value to SDLC 😘
+</p>
 
 Connect me on [Linkedin](https://www.linkedin.com/in/francis-yeo-90543645/)\
 Reach me at 📧 [Email](https://francis.yeo.wk@gmail.com/)
@@ -32,8 +33,7 @@ Reach me at 📧 [Email](https://francis.yeo.wk@gmail.com/)
 <code><img height="56" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="56" height="56"/> </a> 
 <code><img height="56" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png">
 </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="56" height="56"/> </a>
-
-.
+</p>
 
 <code><img height="49" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 
