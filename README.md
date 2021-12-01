@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Francis. Thanks for dropping by</h1>
-<h3 align="center">A passionate DevOps enthusiastic</h3>
+<h3 align="center">A passionate DevOps enthusiast</h3>
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better!
 
@@ -10,6 +10,7 @@ A Banking Operations Professional passionate and fascinate by Automation & Digit
 </p>
 
 Connect me on [Linkedin](https://www.linkedin.com/in/francis-yeo-90543645/)\
+Invite me to </a> <a href="https://discord.gg/yeofrancis#9289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yeofrancis#9289" height="30" width="40" /></a>\
 Reach me at 📧 [Email](https://francis.yeo.wk@gmail.com/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeofrancis&label=Profile%20views&color=0e75b6&style=flat" alt="yeofrancis" /> </p>
