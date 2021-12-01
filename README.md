@@ -24,14 +24,15 @@ Reach me at 📧 [Email](https://francis.yeo.wk@gmail.com/)
 
 # Language and Tools
 
-<code><img height="56" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
+
 ![image](https://user-images.githubusercontent.com/82499575/143894793-8f76556f-cb23-4d69-84e1-f56e973c0e3c.png)
-<code><img height="56" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="56" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+![image](https://user-images.githubusercontent.com/82499575/144170859-7d1151ea-2dbf-4ebc-a9dc-f22729c7cb52.png)
 <img align="left" alt="Visual Studio Code" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GitHub" width="56px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<code><img height="56" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 ![image](https://user-images.githubusercontent.com/82499575/144170806-b613615c-2668-4d3a-95e9-dd91f77476c7.png)
-![image](https://user-images.githubusercontent.com/82499575/144170859-7d1151ea-2dbf-4ebc-a9dc-f22729c7cb52.png)
+<code><img height="56" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
 ![image](https://user-images.githubusercontent.com/82499575/144171157-b7444377-4be7-4834-a996-5786acbe5a2e.png)
 
 <code><img height="49" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
