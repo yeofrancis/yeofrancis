@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I am Francis. Thanks for dropping by</h1>
-<h3 align="center">A passionate Beginner DevOps enthusiast</h3>
+<h3 align="center">A Passionate Beginner DevOps Enthusiast</h3>
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better!
+The repo will represent my DevOps Journey
 
 
 
