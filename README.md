@@ -18,7 +18,7 @@ Reach me at 📧 [Email](https://francis.yeo.wk@gmail.com/)
 - 🤔 I’m looking to collaborate on DevOps projects 
 - 👯 I’ll volunteer to Dockerize an application on any GitHub repository
 - 🥅 2020 Goals: Start my DevOps journey and with 3 completed projects 
-- 💬 Ask me about anything about Agile Scrum Master 
+- 💬 Ask me about anything about Agile and Scrum Master 
 - 😄 Pronouns: Build it and they will come
 - ⚡ Fun fact: I do farming while in Northern Thailand
 
