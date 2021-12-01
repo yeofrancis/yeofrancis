@@ -2,6 +2,7 @@
 <h3 align="center">A Passionate Beginner DevOps Noob Enthusiast🤣 </h3>
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better!\
+Will appreciate and learn from all output
 
 
 <h1 align="left">About Me</h1>
