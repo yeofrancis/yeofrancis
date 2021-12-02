@@ -42,7 +42,7 @@ Reach me at 📧 [Email](https://francis.yeo.wk@gmail.com/)
 <h1 align="left">Cloud Computing</h1>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="69" height="69"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="69" height="69"/> 
 
-<h1 align="left">Courses Completed</h1>
+<h1 align="left">DevOps Courses Completed</h1>
 <img width="243" alt="Docker Quick Start" src="https://user-images.githubusercontent.com/82499575/144445939-8402c4a7-c06e-4cfd-8dbb-9cc68516d31e.png">
 <img width="240" alt="Essential Contaners" src="https://user-images.githubusercontent.com/82499575/144446151-01dfd246-493c-4876-a1d2-05c771aef01c.png">
 <img width="236" alt="Docker Deep Dive" src="https://user-images.githubusercontent.com/82499575/144447417-dd602bf8-9287-4853-9830-18b65655e5c7.png">
