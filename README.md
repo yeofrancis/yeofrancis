@@ -41,7 +41,16 @@ Reach me at 📧 [Email](https://francis.yeo.wk@gmail.com/)
 
 <h1 align="left">Cloud Computing</h1>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="69" height="69"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="69" height="69"/> 
-  
+
+<h1 align="left">Courses Completed</h1>
+<img width="243" alt="Docker Quick Start" src="https://user-images.githubusercontent.com/82499575/144445939-8402c4a7-c06e-4cfd-8dbb-9cc68516d31e.png">
+<img width="240" alt="Essential Contaners" src="https://user-images.githubusercontent.com/82499575/144446151-01dfd246-493c-4876-a1d2-05c771aef01c.png">
+<img width="236" alt="Docker Deep Dive" src="https://user-images.githubusercontent.com/82499575/144447417-dd602bf8-9287-4853-9830-18b65655e5c7.png">
+<img width="235" alt="Docker Certified Associate" src="https://user-images.githubusercontent.com/82499575/144447525-3ecd71ef-3e1b-497c-82d9-d31fccda1d5e.png">
+<img width="233" alt="intro to Kubernetes" src="https://user-images.githubusercontent.com/82499575/144448390-af625520-5527-46d8-8dd5-56d26fccd6b6.png">
+<img width="228" alt="Kubernetes Essentials" src="https://user-images.githubusercontent.com/82499575/144448426-b1fb79f3-2556-47c5-9183-716e52191cf8.png">
+
+
 
 <h1 align="left">My Stats</h1>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeofrancis&show_icons=true&locale=en" alt="yeofrancis" /></p>
