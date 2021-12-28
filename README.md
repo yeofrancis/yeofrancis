@@ -55,7 +55,8 @@ My DevOps Journey Start Date: 22 March 2021
 <img width="228" alt="Kubernetes Essentials" src="https://user-images.githubusercontent.com/82499575/144448426-b1fb79f3-2556-47c5-9183-716e52191cf8.png">
   
   <h3 align="left">Terraform</h3>
-  https://verify.acloud.guru/12AACC7B2C02
+  
+  [Using Terraform](https://verify.acloud.guru/12AACC7B2C02/)
 
 
 <h1 align="left">My Stats</h1>
