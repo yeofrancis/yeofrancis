@@ -13,7 +13,7 @@ Automation in IT Operations on enhancing and adding value to SDLC 😘
 Connect me on [Linkedin](https://www.linkedin.com/in/francis-yeo-90543645/)\
 Invite me to </a> <a href="https://discord.gg/yeofrancis#9289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yeofrancis#9289" height="30" width="40" /></a>\
 Reach me at 📧 [Email](https://francis.yeo.wk@gmail.com/)\
-My DevOps Journey Start Date: 22 March 2021
+My Cloud Journey Start Date: 22 March 2022
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeofrancis&label=Profile%20views&color=0e75b6&style=flat" alt="yeofrancis" /> </p>
 
 - 🔭 I’m currently working on Dockerizing Continious Integration / Continious Delivery
