@@ -6,7 +6,8 @@ Will appreciate and learn from all inputs.🙏
 
 
 <h1 align="left">About Me</h1>
-A Banking Operations Professional passionate and fascinate by Automation & Digitial Tranformation deep dving into the area of IT Operations and its relationship with Software Developers on enhancing and automating their processes, adding value to SDLC 😘
+A Banking Operations Professional passionate and fascinate by Automation & Digitial Tranformation deep dving into Cloud Solutioning and area of 
+Automation in IT Operations on enhancing and adding value to SDLC 😘
 </p>
 
 Connect me on [Linkedin](https://www.linkedin.com/in/francis-yeo-90543645/)\
