@@ -18,12 +18,13 @@ My DevOps Journey Start Date: 22 March 2021
 
 - 🔭 I’m currently working on Dockerizing Continious Integration / Continious Delivery
 - 🌱 I’m currently learning everything on DevOps with Docker and Kubernetes 👇( see below )
-- 🤔 I’m looking to collaborate on DevOps projects 
-- 👯 I’ll volunteer to Dockerize an application on any GitHub repository
-- 🥅 2021 Goals: Start my DevOps journey and with 3 completed projects 
+- 🤔 I’m looking to collaborate on Cloud projects 
+- 👯 I’ll volunteer to provision cloud resources using Terraform on any GitHub repository
+- 🥅 2023 Goals: To achieve 4 Cloud certifications and build a Python game
+- :gift_heart: Share and Provide to communities
 - 💬 Ask me about anything about Agile and Scrum Master 
 - 😄 Pronouns: Build it and they will come
-- ⚡ Fun fact: I do farming while in Northern Thailand
+- ⚡ Fun fact: Farming while in Northern Thailand for holiday.
 
 
 <h1 align="left">Language and Tools</h1>
