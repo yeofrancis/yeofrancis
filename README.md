@@ -6,8 +6,8 @@ Will appreciate and learn from all inputs.🙏
 
 
 <h1 align="left">About Me</h1>
-A Banking Operations Professional passionate and fascinate by Automation & Digitial Tranformation deep dving into Cloud Solutioning and area of 
-Automation in IT Operations on enhancing and adding value to SDLC 😘
+A Banking Operations Professional passionate and fascinate by Cloud Technologies and Automation deep diving into Cloud Solutioning and  
+enhancing automations in Infrastructure Operations adding value to SDLC 😘
 </p>
 
 Connect me on [Linkedin](https://www.linkedin.com/in/francis-yeo-90543645/)\
@@ -16,8 +16,8 @@ Reach me at 📧 [Email](https://francis.yeo.wk@gmail.com/)\
 My Cloud Journey Start Date: 22 March 2022
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeofrancis&label=Profile%20views&color=0e75b6&style=flat" alt="yeofrancis" /> </p>
 
-- 🔭 I’m currently working on Dockerizing Continious Integration / Continious Delivery
-- 🌱 I’m currently learning everything on DevOps with Docker and Kubernetes 👇( see below )
+- 🔭 I’m currently working on Azure Projects
+- 🌱 I’m currently learning everything on Azure Severless and Microservices and Python 👇( see below )
 - 🤔 I’m looking to collaborate on Azure and AWS Cloud and Python projects 
 - 👯 I’ll volunteer to provision cloud resources using Terraform on any GitHub repository
 - 🥅 2024 Goals: achieve AZ-305 and AZ-700 Cloud certifications, start building a Python game or app
@@ -44,10 +44,15 @@ My Cloud Journey Start Date: 22 March 2022
 <h1 align="left">Cloud Computing</h1>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="69" height="69"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="69" height="69"/> 
 
-<h1 align="left">Current Learning Completed</h1>
+<h1 align="left">Current Learning </h1>
+
+I am learning \
+[Building Azure Cloud Native App](https://learn.microsoft.com/en-us/collections/xkwnhmwrgkxd?WT.mc_id=cloudskillschallenge_21cce125-72cf-4518-b9e3-3b354a5f6d51).\
+[Python Excel](https://openpyxl.readthedocs.io/en/stable/tutorial.html)
+<h1 align="left">Containerisation </h1>
   
-  <h3 align="left">Docker & Container</h3>  
-<img width="243" alt="Docker Quick Start" src="https://user-images.githubusercontent.com/82499575/144445939-8402c4a7-c06e-4cfd-8dbb-9cc68516d31e.png">
+<h3 align="left">Docker & Container</h3>  
+<img width="243" alt="Docker Quick Start" src="https://user-images.githubusercontent.com/82499575/144445939-8402c4a7-c06e-4cfd-8dbb-9cc68516d31e.png"> 
 <img width="240" alt="Essential Contaners" src="https://user-images.githubusercontent.com/82499575/144446151-01dfd246-493c-4876-a1d2-05c771aef01c.png">
 <img width="236" alt="Docker Deep Dive" src="https://user-images.githubusercontent.com/82499575/144447417-dd602bf8-9287-4853-9830-18b65655e5c7.png">
 <img width="235" alt="Docker Certified Associate" src="https://user-images.githubusercontent.com/82499575/144447525-3ecd71ef-3e1b-497c-82d9-d31fccda1d5e.png">
