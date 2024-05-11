@@ -18,13 +18,13 @@ My Cloud Journey Start Date: 22 March 2022
 
 - 🔭 I’m currently working on Dockerizing Continious Integration / Continious Delivery
 - 🌱 I’m currently learning everything on DevOps with Docker and Kubernetes 👇( see below )
-- 🤔 I’m looking to collaborate on Cloud projects 
+- 🤔 I’m looking to collaborate on Azure and AWS Cloud and Python projects 
 - 👯 I’ll volunteer to provision cloud resources using Terraform on any GitHub repository
-- 🥅 2023 Goals: To achieve 4 Cloud certifications and build a Python game
+- 🥅 2024 Goals: achieve AZ-305 and AZ-700 Cloud certifications, start building a Python game or app
 - :gift_heart: Share and Provide to communities
-- 💬 Ask me about anything about Agile and Scrum Master 
-- 😄 Pronouns: Build it and they will come
-- ⚡ Fun fact: Farming while in Northern Thailand for holiday.
+- 💬 Try me about anything on Securities Investment and Operation  
+- 😄 Pronouns: Nothin can't be learn. Build it and they will come
+- ⚡ Fun and Relax time: Join me in a Street Fighter game or a drinking session.
 
 
 <h1 align="left">Language and Tools</h1>
