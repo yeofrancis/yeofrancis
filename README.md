@@ -21,10 +21,10 @@ My Cloud Journey Start Date: 22 March 2022
 - 🤔 I’m looking to collaborate on Azure Cloud and Python projects 
 - 👯 I’ll love provision cloud resources using Azure Verified Module / Terraform / Terragrunt 
 - 🥅 2025 Goals: to achieve AZ-305 and acquire proficiency in Azure Networking and AKS. Good understanding in Azure AI, AI Agents, Agentic AI and MCPs. 
-- :gift_heart: Share and Provide to communities
-- 💬 Try me about anything on Securities Investment and Operation  
+- :gift_heart: Learning to Share and Provide to communities
+- 💬 Try me about anything on Securities Investment and Custodian Bank Operation  
 - 😄 Pronouns: Nothin can't be learn. Build it and they will come
-- ⚡ Fun and Relax time: Join me in a Street Fighter game or a drinking session.
+- ⚡ Fun and Relax time: Join me in a Street Fighter game, a full Taichi movement or a karaoke session.
 
 
 <h1 align="left">Language and Tools</h1>
