@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Francis. Thanks for dropping by</h1>
 <h3 align="center">A Passionate Cloud and DevOps Solutioning Enthusiast🤣 </h3>
 
-Please guide and assist me by cloning/forking projects, raise issues and submit PRs if you think something could be better!\
+Please guide me in learning by cloning/forking projects, raise issues and submit PRs if you think something could be better!\
 Will appreciate and learn from all inputs.🙏
 
 
@@ -17,10 +17,10 @@ My Cloud Journey Start Date: 22 March 2022
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeofrancis&label=Profile%20views&color=0e75b6&style=flat" alt="yeofrancis" /> </p>
 
 - 🔭 I’m currently working on Azure Projects
-- 🌱 I’m currently learning everything on Azure Severless and Microservices and Python 👇( see below )
-- 🤔 I’m looking to collaborate on Azure and AWS Cloud and Python projects 
-- 👯 I’ll volunteer to provision cloud resources using Terraform on any GitHub repository
-- 🥅 2024 Goals: achieve AZ-305 and AZ-700 Cloud certifications, start building a Python game or app
+- 🌱 I’m currently learning everything on Azure Networking, Azure Kubernetes Service, Azure AI and Python
+- 🤔 I’m looking to collaborate on Azure Cloud and Python projects 
+- 👯 I’ll love provision cloud resources using Azure Verified Module / Terraform / Terragrunt 
+- 🥅 2025 Goals: achieve AZ-305 and achieve proficiency in Azure Networking and AKS. Good understanding in Azure AI, AI Agents, Agentic Flows and MCPs. Start with AI-102 as a base for PoCs
 - :gift_heart: Share and Provide to communities
 - 💬 Try me about anything on Securities Investment and Operation  
 - 😄 Pronouns: Nothin can't be learn. Build it and they will come
