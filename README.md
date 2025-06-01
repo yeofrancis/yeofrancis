@@ -20,7 +20,7 @@ My Cloud Journey Start Date: 22 March 2022
 - 🌱 I’m currently learning everything on Azure Networking, Azure Kubernetes Service, Azure AI and Python
 - 🤔 I’m looking to collaborate on Azure Cloud and Python projects 
 - 👯 I’ll love provision cloud resources using Azure Verified Module / Terraform / Terragrunt 
-- 🥅 2025 Goals: achieve AZ-305 and achieve proficiency in Azure Networking and AKS. Good understanding in Azure AI, AI Agents, Agentic Flows and MCPs. Start with AI-102 as a base for PoCs
+- 🥅 2025 Goals: to achieve AZ-305 and acquire proficiency in Azure Networking and AKS. Good understanding in Azure AI, AI Agents, Agentic AI and MCPs. 
 - :gift_heart: Share and Provide to communities
 - 💬 Try me about anything on Securities Investment and Operation  
 - 😄 Pronouns: Nothin can't be learn. Build it and they will come
