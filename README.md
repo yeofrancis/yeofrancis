@@ -34,7 +34,7 @@ My Cloud Journey Start Date: 22 March 2022
 </p>
 
 
-<code><img height="49" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> </a>
+<code><img height="69" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> </a>
 
 
 
@@ -44,19 +44,19 @@ My Cloud Journey Start Date: 22 March 2022
 <h1 align="left">Current Learning </h1>
 
 I am learning \
-[Building Azure Cloud Native App](https://learn.microsoft.com/en-us/collections/xkwnhmwrgkxd?WT.mc_id=cloudskillschallenge_21cce125-72cf-4518-b9e3-3b354a5f6d51).\
-[Python Excel](https://openpyxl.readthedocs.io/en/stable/tutorial.html)
+[Building Azure Cloud Native App](https://learn.microsoft.com/en-us/collections/xkwnhmwrgkxd?WT.mc_id=cloudskillschallenge_21cce125-72cf-4518-b9e3-3b354a5f6d51)\
+[Python Excel](https://openpyxl.readthedocs.io/en/stable/tutorial.html)\
+[Introduction to Kubernetes](https://www.edx.org/learn/kubernetes/the-linux-foundation-introduction-to-kubernetes)\
+[Azure AI](https://learn.microsoft.com/en-us/training/courses/ai-102t00)
 <h1 align="left">Containerisation </h1>
   
 <h3 align="left">Docker & Container</h3>  
-<img width="243" alt="Docker Quick Start" src="https://user-images.githubusercontent.com/82499575/144445939-8402c4a7-c06e-4cfd-8dbb-9cc68516d31e.png"> 
-<img width="240" alt="Essential Contaners" src="https://user-images.githubusercontent.com/82499575/144446151-01dfd246-493c-4876-a1d2-05c771aef01c.png">
-<img width="236" alt="Docker Deep Dive" src="https://user-images.githubusercontent.com/82499575/144447417-dd602bf8-9287-4853-9830-18b65655e5c7.png">
-<img width="235" alt="Docker Certified Associate" src="https://user-images.githubusercontent.com/82499575/144447525-3ecd71ef-3e1b-497c-82d9-d31fccda1d5e.png">
+<img width="200" alt="Docker Quick Start" src="https://user-images.githubusercontent.com/82499575/144445939-8402c4a7-c06e-4cfd-8dbb-9cc68516d31e.png"> <img width="200" alt="Essential Contaners" src="https://user-images.githubusercontent.com/82499575/144446151-01dfd246-493c-4876-a1d2-05c771aef01c.png"><img width="200" alt="Docker Deep Dive" src="https://user-images.githubusercontent.com/82499575/144447417-dd602bf8-9287-4853-9830-18b65655e5c7.png">
+<img width="200" alt="Docker Certified Associate" src="https://user-images.githubusercontent.com/82499575/144447525-3ecd71ef-3e1b-497c-82d9-d31fccda1d5e.png">
   
   <h3 align="left">Kubernetes</h3>  
-<img width="233" alt="intro to Kubernetes" src="https://user-images.githubusercontent.com/82499575/144448390-af625520-5527-46d8-8dd5-56d26fccd6b6.png">
-<img width="228" alt="Kubernetes Essentials" src="https://user-images.githubusercontent.com/82499575/144448426-b1fb79f3-2556-47c5-9183-716e52191cf8.png">
+<img width="200" alt="intro to Kubernetes" src="https://user-images.githubusercontent.com/82499575/144448390-af625520-5527-46d8-8dd5-56d26fccd6b6.png">
+<img width="200" alt="Kubernetes Essentials" src="https://user-images.githubusercontent.com/82499575/144448426-b1fb79f3-2556-47c5-9183-716e52191cf8.png">
   
   <h3 align="left">Terraform</h3>
   
